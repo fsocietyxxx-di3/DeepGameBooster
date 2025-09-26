@@ -1,6 +1,5 @@
 # DeepGameBooster
-
-Android app to boost device profiles via shell commands.  
+Android app to boost device profiles via shell commands.
 - MVVM, Hilt, Jetpack Compose, Firebase (free features), Coroutines.
 - Shell execution via Shizuku/root/safe fallback.
 - Profiles for Battery Saver, Balanced, Performance + custom.
